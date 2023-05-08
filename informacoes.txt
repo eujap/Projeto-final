@@ -1,0 +1,2 @@
+importado a bliblioteca de validação cpf pip install validate-docbr
+diponivel em https://pypi.org/project/validate-docbr/ dia 07/05/2023.
